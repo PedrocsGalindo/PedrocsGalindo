@@ -8,7 +8,7 @@ Bem-vindo ao meu perfil GitHub! Eu sou novo na área, com isso, tenho a mente ab
 
 ## 📊 Estatísticas do GitHub
 ![Suas Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=PedrocsGalindo&show_icons=true&theme=dark)
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=PedrocsGalindo&layout=compact&theme=dark)
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=PedrocsGalindo&layout=compact&theme=dark&cache_seconds=1800)
 <!--
 **PedrocsGalindo/PedrocsGalindo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
