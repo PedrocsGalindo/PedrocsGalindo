@@ -7,7 +7,7 @@ Bem-vindo ao meu perfil GitHub! Eu sou novo na área, com isso, tenho a mente ab
 - TudoGostoso (https://github.com/PedrocsGalindo/TudoGostoso---receitas-e-dicas-de-culin-ria) : Um projeto que estou desenvolvendo juntos ao meus colegas de faculdade para nossa cadeira de PO0. Uma rede social de compartilhar receitas.
 
 ## 📊 Estatísticas do GitHub
-![Suas Estatísticas do GitHub](https://github.com/PedrocsGalindo/TudoGostoso---receitas-e-dicas-de-culin-ria)
+![Suas Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=PedrocsGalindo&show_icons=true&theme=dracula)
 
 ### 🔧 Tecnologias e Ferramentas
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
