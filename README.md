@@ -4,7 +4,7 @@
 Bem-vindo ao meu perfil GitHub! Eu sou novo na área, com isso, tenho a mente aberta, com desejo de conhecimento na tecnologia. Possuo um interesse grande na parte de análise de dados, machine learning, deep learning e IA, e também estou disposto a me aventurar em outros campos de programação. Falando um pouco mais pessoalmente sobre mim, sou criativo sempre com novas ideias para resolução de problemas e atento a oportunidades. Também sou proativo e ótimo com trabalho em grupo, tenho habilidades notórias para lidar e gerir pessoas, somando-se a isso tenho uma boa comunicação.
 
 ## 🔧 Projetos Recentes
-- TudoGostoso (https://github.com/ViniGBPl/TudoGostoso---receitas-e-dicas-de-culin-ria) : Um projeto que estou desenvolvendo juntos ao meus colegas de faculdade para nossa cadeira de PO0. Uma rede social de compartilhar receitas.
+- TudoGostoso (https://github.com/PedrocsGalindo/TudoGostoso---receitas-e-dicas-de-culin-ria) : Um projeto que estou desenvolvendo juntos ao meus colegas de faculdade para nossa cadeira de PO0. Uma rede social de compartilhar receitas.
 
 ## 📊 Estatísticas do GitHub
 ![Suas Estatísticas do GitHub](https://github.com/PedrocsGalindo/TudoGostoso---receitas-e-dicas-de-culin-ria)
