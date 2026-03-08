@@ -1,8 +1,7 @@
 ## Hi there 👋
 # Olá! Eu sou Pedro Cesar Galindo 
 
-Bem-vindo ao meu perfil GitHub! Sou um entusiasta de Deep Learning, Redes Neurais e Machine Learning, com o objetivo de utilizar essas tecnologias para resolver problemas reais no mundo. Tenho experiência prática no desenvolvimento de sistemas de detecção de violência em áudio, utilizando Python, Keras e OpenCV. Atualmente, estou expandindo meus conhecimentos em PyTorch para aprimorar minha abordagem em projetos de aprendizado profundo.
-
+Bem-vindo ao meu perfil GitHub! Sou um entusiasta de Deep Learning, Redes Neurais e Machine Learning, com o objetivo de utilizar essas tecnologias para resolver problemas reais no mundo. Tenho experiência prática no desenvolvimento de sistemas de detecção de violência em áudio, utilizando Python, Keras e OpenCV. Atualmente, estou expandindo meus conhecimentos em matematica para ML. 
 ## 📊 Estatísticas do GitHub
 ![Suas Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=PedrocsGalindo&show_icons=true&theme=dracula)
 
